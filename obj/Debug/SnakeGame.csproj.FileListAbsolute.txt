@@ -1,0 +1,12 @@
+D:\Всякое\Прки\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Всякое\Прки\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Всякое\Прки\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.ChooseGame.resources
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.Game.resources
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.mainMenu.resources
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Всякое\Прки\SnakeGame\obj\Debug\SnakeGame.pdb
